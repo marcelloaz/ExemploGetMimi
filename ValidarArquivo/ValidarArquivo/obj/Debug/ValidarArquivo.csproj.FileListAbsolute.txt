@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\bin\Debug\ValidarArquivo.exe.config
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\bin\Debug\ValidarArquivo.exe
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\bin\Debug\ValidarArquivo.pdb
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\bin\Debug\Winista.MimeDetect.dll
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\obj\Debug\ValidarArquivo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\obj\Debug\ValidarArquivo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\obj\Debug\ValidarArquivo.csproj.CopyComplete
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\obj\Debug\ValidarArquivo.exe
+C:\Users\user\source\repos\ValidarArquivo\ValidarArquivo\obj\Debug\ValidarArquivo.pdb
